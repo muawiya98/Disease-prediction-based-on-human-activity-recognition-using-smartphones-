@@ -1,2 +1,2 @@
-Disease Prediction based on human activity recognition using smartphones:
+# Disease Prediction based on human activity recognition using smartphones:
 This machine learning project predicts the type of disease a person may have based on physical activity data recorded by smartphone sensors. It also includes a simple ChatBot provide warnings and advice based on user responses. The project utilizes AI techniques such as Deep Learning, Data preparation and preprocessing, visualization tools, a Knowledge Base System (KBS), and various ML models.
